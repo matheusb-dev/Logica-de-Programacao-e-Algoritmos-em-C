@@ -16,7 +16,7 @@ int main(){
     c = a * 365 + m * 30 + d;
 
     /*exibindo na tela*/
-    printf("Você esta vivo há: %.f dias",c);
+    printf("Você esta vivo há: %d dias",c);
 
     
     return 0;
